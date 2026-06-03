@@ -1,34 +1,51 @@
-# quick-glance
+# Emre KOCYIGIT
 
-## Hello 👋, I'm Emre KOCYIGIT. You can find keywords and characteristic data which describe me on this page:)
+**Senior AI/ML Engineer · Data Scientist · Agentic AI · LLM · RAG · Azure**  
+Luxembourg · [LinkedIn](https://linkedin.com/in/kocyigitemre) · [Medium](https://medium.com/@kocyigit.emre.30) · [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kocyigitemre)
+---
 
-<ul>
-  <li> 💻 I'm a Doctoral Researcher(PhD Student) at the <a href="https://wwwfr.uni.lu/snt">University of Luxembourg</a> </li>
-  <li> 🎓 Computer Engineering Master's Degree in <a href="https://yildiz.edu.tr/">Yildiz Technical University</a> </li>
-  <li> ✨ I'm a member of the <a href="https://irisc-lab.uni.lu/deceptive-patterns-online-decepticon-2021-24/">DECEPTICON project team</a> </li>
-  <li> 📫 How to reach me: <a href="mailto: kocyigit.emre.30@gmail.com">kocyigit.emre.30@gmail.com</a> </li>
-</li>
-</ul>
+## What I do
 
-### You can check my videos on YouTube: 
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdFkncGwUMHewZ0Yy11Ca6Q)
-<br>
-If you are interested in Machine Learning, Deep Learning, Web Crawling techniques, and Phishing Attacks, my youtube channel is ideal for you. I'm trying to explain important points with holistic approach in these videos to show the big picture!
+I work across the full data science and AI stack — from exploratory analysis, feature engineering, and modelling through to production-grade agentic pipelines, LLM-powered tools, and RAG architectures — with a research foundation in multimodal AI and 10 years of engineering & research experience across FinTech, cybersecurity, and software systems.
 
-### Languages, Tools, Systems I worked
+Currently: **Founder & Principal Consultant at Nirengi AI** — auditing, optimizing, and deploying Agentic AI systems for enterprise clients on MS Azure.
 
-<code><img height="27" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"></code>
-<code><img height="27" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></code>
-<code><img height="27" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"></code>
-<code><img height="27" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"></code>
-<code><img height="27" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google_cloud"></code>
-<code><img height="27" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="ms_office"></code>
-<code><img height="27" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"></code>
-<code><img height="27" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"></code>
+---
 
-### OS
-<code><img height="27" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="mac_ios"></code>
-<code><img height="27" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"></code>
-<code><img height="27" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"></code>
+## Core skills
+
+**Agentic AI & LLMs** — LangChain · LlamaIndex · Google ADK · Ollama · RAG · Fine-tuning · Prompt engineering · AI Evaluation  
+**ML / DL** — PyTorch · TensorFlow · Scikit-learn · HuggingFace · Transformers  
+**Cloud & MLOps** — Microsoft Azure · ONNX · Model Deployment  
+**Languages** — Python · SQL · REST API
+
+---
+
+## Selected projects
+
+| Project | What it does |
+|---|---|
+| [EnclaveCode](https://github.com/emre-kocyigit/enclavecode) | Local-first CLI combining isolated code execution with local LLMs — no cloud, no data leaving the machine |
+| [Dark Pattern Detector](https://github.com/emre-kocyigit/dark-pattern-detector) | Multimodal LLM tool for detecting deceptive UI patterns — based on PhD research published at ACM FAccT 2025 |
+| [Phishing Detection](https://github.com/emre-kocyigit/phishing-website-detection-content-based) | End-to-end ML pipeline for content-based phishing URL classification |
+
+---
+
+## Research snapshot
+
+17+ peer-reviewed publications · 460+ citations  
+Topics: multimodal LLMs · dark patterns · cybersecurity · AI detection systems  
+Venues: ACM FAccT · IEEE · Springer 
+
+---
+
+## Education
+
+- PhD, Computer Science — University of Luxembourg  
+- MSc, Computer Engineering — Yildiz Technical University  
+- BSc, Computer Engineering — National Defense University *(Magna cum laude, ranked 2nd)*
+
+---
+
+*For the full picture: [LinkedIn](https://linkedin.com/in/kocyigitemre)*
